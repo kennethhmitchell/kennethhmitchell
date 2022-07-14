@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ken Mitchell 
+- 👀 I’m interested in RubyOnRails development 
+- 📫 To reach me:
+     -- kennethhmitchell@gmail.com
